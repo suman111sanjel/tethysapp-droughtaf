@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NAME_2_Hirat City",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "GID_0": "AFG", "NAME_0": "Afghanistan", "GID_1": "AFG.12_1", "NAME_1": "Hirat", "NL_NAME_1": null, "GID_2": "AFG.12.7_1", "NAME_2": "Hirat City", "VARNAME_2": "Hirat", "NL_NAME_2": null, "TYPE_2": "Wuleswali", "ENGTYPE_2": "District", "CC_2": null, "HASC_2": "AF.HR.HI" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 62.212551116943303, 34.354087829589957 ], [ 62.208297729492188, 34.324298858642578 ], [ 62.174251556396484, 34.337066650390739 ], [ 62.148715972900391, 34.349834442138672 ], [ 62.131694793701172, 34.354087829589957 ], [ 62.157226562500057, 34.375370025634709 ], [ 62.178504943847599, 34.400901794433651 ], [ 62.208297729492188, 34.383880615234375 ], [ 62.212551116943303, 34.354087829589957 ] ] ] } }
+]
+}
