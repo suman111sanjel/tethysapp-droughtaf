@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" class="yearpicker form-control" value=""/>
+    <link href="css/plugins/yearpicker.css" rel="stylesheet"/>
+    <script src="js/plugins/jquery-3.3.1.min.js"></script>
+    <script src="js/plugins/yearpicker.js"></script>
+<script>
+
+    $('.yearpicker').yearpicker({
+        // Initial Year
+        year: 2021,
+        // Start Year
+        startYear: 2011,
+        // End Year
+        endYear: 2021,
+    });
+</script>
+</body>
+</html>
